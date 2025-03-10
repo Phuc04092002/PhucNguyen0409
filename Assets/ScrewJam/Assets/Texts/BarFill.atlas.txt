@@ -1,0 +1,10 @@
+BarFill.png
+size:512,512
+filter:Linear,Linear
+FuelIcon
+bounds:2,119,167,146
+offsets:0,0,168,146
+ProgressBarBG
+bounds:2,307,363,58
+ProgressBarGreen
+bounds:2,267,340,38

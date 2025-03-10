@@ -1,0 +1,15 @@
+Grass.png
+size:256,256
+filter:Linear,Linear
+Grass (1)
+bounds:2,2,10,250
+Grass (2)
+bounds:32,149,35,103
+Grass (3)
+bounds:81,208,44,44
+Grass (4)
+bounds:69,149,10,103
+Grass (5)
+bounds:32,38,17,109
+Grass (6)
+bounds:14,10,16,242

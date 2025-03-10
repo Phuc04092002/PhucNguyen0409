@@ -1,0 +1,10 @@
+BrokenHeartAnim.png
+size:1024,1024
+filter:Linear,Linear
+Asset 24
+bounds:432,501,103,102
+Asset 25
+bounds:2,159,428,444
+Lives
+bounds:2,2,169,155
+offsets:6,39,184,222

@@ -1,0 +1,12 @@
+EventBarFill.png
+size:512,512
+filter:Linear,Linear
+BarGray
+bounds:2,142,257,149
+offsets:1,0,258,149
+BarGreen
+bounds:2,2,247,138
+offsets:0,0,247,139
+BarTip
+bounds:261,261,30,30
+offsets:0,1,30,31

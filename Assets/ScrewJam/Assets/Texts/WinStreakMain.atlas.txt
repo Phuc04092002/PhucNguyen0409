@@ -1,0 +1,24 @@
+WinStreakMain.png
+size:512,512
+filter:Linear,Linear
+Ladder
+bounds:214,2,88,250
+Layer 1
+bounds:276,294,197,214
+offsets:1,1,199,216
+LevelCounter1
+bounds:365,186,106,106
+LevelCounter2
+bounds:2,254,272,254
+PassiveLayer
+bounds:2,29,210,223
+WinStreakMainMenuSign
+bounds:304,82,210,59
+offsets:2,13,212,80
+rotate:90
+cloud1
+bounds:365,61,125,53
+cloud2
+bounds:365,116,125,68
+cloud3
+bounds:304,7,125,52

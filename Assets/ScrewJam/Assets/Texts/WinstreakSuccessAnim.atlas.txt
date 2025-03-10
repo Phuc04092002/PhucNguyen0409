@@ -1,0 +1,14 @@
+WinstreakSuccessAnim.png
+size:1672,1672
+filter:Linear,Linear
+scale:0.5
+LadderCross
+bounds:2,488,1173,1180
+LevelCounter1
+bounds:794,274,212,212
+LevelCounter2
+bounds:1177,1414,272,254
+WinStreak
+bounds:2,2,484,790
+offsets:0,0,484,820
+rotate:90

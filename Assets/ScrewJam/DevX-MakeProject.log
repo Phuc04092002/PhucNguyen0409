@@ -1,0 +1,1008 @@
+Name: Screw Jam_0.7.0_Apkpure.apk
+UnityVersion: 2021.3.23f1
+IL2CPP: True
+Error convert for vertex shader {fileID: 0 (globalgamemanagers.assets), pathID: 48, m_Name: Hidden/Universal Render Pipeline/Sampling, type: Shader}
+Error convert for fragment shader {fileID: 0 (globalgamemanagers.assets), pathID: 48, m_Name: Hidden/Universal Render Pipeline/Sampling, type: Shader}
+Error convert for vertex shader {fileID: 0 (globalgamemanagers.assets), pathID: 49, m_Name: Hidden/Universal Render Pipeline/ScreenSpaceShadows, type: Shader}
+Error convert for fragment shader {fileID: 0 (globalgamemanagers.assets), pathID: 49, m_Name: Hidden/Universal Render Pipeline/ScreenSpaceShadows, type: Shader}
+Error convert for vertex shader {fileID: 0 (globalgamemanagers.assets), pathID: 50, m_Name: Hidden/Universal Render Pipeline/Stop NaN, type: Shader}
+Error convert for fragment shader {fileID: 0 (globalgamemanagers.assets), pathID: 50, m_Name: Hidden/Universal Render Pipeline/Stop NaN, type: Shader}
+Error convert for vertex shader {fileID: 0 (globalgamemanagers.assets), pathID: 51, m_Name: Hidden/Universal Render Pipeline/CameraMotionBlur, type: Shader}
+Error convert for fragment shader {fileID: 0 (globalgamemanagers.assets), pathID: 51, m_Name: Hidden/Universal Render Pipeline/CameraMotionBlur, type: Shader}
+Error convert for vertex shader {fileID: 0 (globalgamemanagers.assets), pathID: 51, m_Name: Hidden/Universal Render Pipeline/CameraMotionBlur, type: Shader}
+Error convert for fragment shader {fileID: 0 (globalgamemanagers.assets), pathID: 51, m_Name: Hidden/Universal Render Pipeline/CameraMotionBlur, type: Shader}
+Error convert for vertex shader {fileID: 0 (globalgamemanagers.assets), pathID: 51, m_Name: Hidden/Universal Render Pipeline/CameraMotionBlur, type: Shader}
+Error convert for fragment shader {fileID: 0 (globalgamemanagers.assets), pathID: 51, m_Name: Hidden/Universal Render Pipeline/CameraMotionBlur, type: Shader}
+Error convert for vertex shader {fileID: 0 (globalgamemanagers.assets), pathID: 52, m_Name: Hidden/Universal Render Pipeline/BokehDepthOfField, type: Shader}
+Error convert for fragment shader {fileID: 0 (globalgamemanagers.assets), pathID: 52, m_Name: Hidden/Universal Render Pipeline/BokehDepthOfField, type: Shader}
+Error convert for vertex shader {fileID: 0 (globalgamemanagers.assets), pathID: 52, m_Name: Hidden/Universal Render Pipeline/BokehDepthOfField, type: Shader}
+Error convert for fragment shader {fileID: 0 (globalgamemanagers.assets), pathID: 52, m_Name: Hidden/Universal Render Pipeline/BokehDepthOfField, type: Shader}
+Error convert for vertex shader {fileID: 0 (globalgamemanagers.assets), pathID: 52, m_Name: Hidden/Universal Render Pipeline/BokehDepthOfField, type: Shader}
+Error convert for fragment shader {fileID: 0 (globalgamemanagers.assets), pathID: 52, m_Name: Hidden/Universal Render Pipeline/BokehDepthOfField, type: Shader}
+Error convert for vertex shader {fileID: 0 (globalgamemanagers.assets), pathID: 52, m_Name: Hidden/Universal Render Pipeline/BokehDepthOfField, type: Shader}
+Error convert for fragment shader {fileID: 0 (globalgamemanagers.assets), pathID: 52, m_Name: Hidden/Universal Render Pipeline/BokehDepthOfField, type: Shader}
+Error convert for vertex shader {fileID: 0 (globalgamemanagers.assets), pathID: 52, m_Name: Hidden/Universal Render Pipeline/BokehDepthOfField, type: Shader}
+Error convert for fragment shader {fileID: 0 (globalgamemanagers.assets), pathID: 52, m_Name: Hidden/Universal Render Pipeline/BokehDepthOfField, type: Shader}
+Error convert for vertex shader {fileID: 0 (globalgamemanagers.assets), pathID: 52, m_Name: Hidden/Universal Render Pipeline/BokehDepthOfField, type: Shader}
+Error convert for fragment shader {fileID: 0 (globalgamemanagers.assets), pathID: 52, m_Name: Hidden/Universal Render Pipeline/BokehDepthOfField, type: Shader}
+Error convert for vertex shader {fileID: 0 (globalgamemanagers.assets), pathID: 52, m_Name: Hidden/Universal Render Pipeline/BokehDepthOfField, type: Shader}
+Error convert for fragment shader {fileID: 0 (globalgamemanagers.assets), pathID: 52, m_Name: Hidden/Universal Render Pipeline/BokehDepthOfField, type: Shader}
+Error convert for vertex shader {fileID: 0 (globalgamemanagers.assets), pathID: 52, m_Name: Hidden/Universal Render Pipeline/BokehDepthOfField, type: Shader}
+Error convert for fragment shader {fileID: 0 (globalgamemanagers.assets), pathID: 52, m_Name: Hidden/Universal Render Pipeline/BokehDepthOfField, type: Shader}
+Error convert for vertex shader {fileID: 0 (globalgamemanagers.assets), pathID: 52, m_Name: Hidden/Universal Render Pipeline/BokehDepthOfField, type: Shader}
+Error convert for fragment shader {fileID: 0 (globalgamemanagers.assets), pathID: 52, m_Name: Hidden/Universal Render Pipeline/BokehDepthOfField, type: Shader}
+Error convert for vertex shader {fileID: 0 (globalgamemanagers.assets), pathID: 52, m_Name: Hidden/Universal Render Pipeline/BokehDepthOfField, type: Shader}
+Error convert for fragment shader {fileID: 0 (globalgamemanagers.assets), pathID: 52, m_Name: Hidden/Universal Render Pipeline/BokehDepthOfField, type: Shader}
+Error convert for vertex shader {fileID: 0 (globalgamemanagers.assets), pathID: 53, m_Name: Hidden/Core/FallbackError, type: Shader}
+Error convert for fragment shader {fileID: 0 (globalgamemanagers.assets), pathID: 53, m_Name: Hidden/Core/FallbackError, type: Shader}
+Error convert for vertex shader {fileID: 0 (globalgamemanagers.assets), pathID: 54, m_Name: Hidden/Universal Render Pipeline/XR/XROcclusionMesh, type: Shader}
+Error convert for fragment shader {fileID: 0 (globalgamemanagers.assets), pathID: 54, m_Name: Hidden/Universal Render Pipeline/XR/XROcclusionMesh, type: Shader}
+Error convert for vertex shader {fileID: 0 (globalgamemanagers.assets), pathID: 55, m_Name: Hidden/Universal Render Pipeline/Edge Adaptive Spatial Upsampling, type: Shader}
+Error convert for fragment shader {fileID: 0 (globalgamemanagers.assets), pathID: 55, m_Name: Hidden/Universal Render Pipeline/Edge Adaptive Spatial Upsampling, type: Shader}
+Error convert for vertex shader {fileID: 0 (globalgamemanagers.assets), pathID: 56, m_Name: Hidden/Universal Render Pipeline/GaussianDepthOfField, type: Shader}
+Error convert for fragment shader {fileID: 0 (globalgamemanagers.assets), pathID: 56, m_Name: Hidden/Universal Render Pipeline/GaussianDepthOfField, type: Shader}
+Error convert for vertex shader {fileID: 0 (globalgamemanagers.assets), pathID: 56, m_Name: Hidden/Universal Render Pipeline/GaussianDepthOfField, type: Shader}
+Error convert for fragment shader {fileID: 0 (globalgamemanagers.assets), pathID: 56, m_Name: Hidden/Universal Render Pipeline/GaussianDepthOfField, type: Shader}
+Error convert for vertex shader {fileID: 0 (globalgamemanagers.assets), pathID: 56, m_Name: Hidden/Universal Render Pipeline/GaussianDepthOfField, type: Shader}
+Error convert for fragment shader {fileID: 0 (globalgamemanagers.assets), pathID: 56, m_Name: Hidden/Universal Render Pipeline/GaussianDepthOfField, type: Shader}
+Error convert for vertex shader {fileID: 0 (globalgamemanagers.assets), pathID: 56, m_Name: Hidden/Universal Render Pipeline/GaussianDepthOfField, type: Shader}
+Error convert for fragment shader {fileID: 0 (globalgamemanagers.assets), pathID: 56, m_Name: Hidden/Universal Render Pipeline/GaussianDepthOfField, type: Shader}
+Error convert for vertex shader {fileID: 0 (globalgamemanagers.assets), pathID: 56, m_Name: Hidden/Universal Render Pipeline/GaussianDepthOfField, type: Shader}
+Error convert for fragment shader {fileID: 0 (globalgamemanagers.assets), pathID: 56, m_Name: Hidden/Universal Render Pipeline/GaussianDepthOfField, type: Shader}
+Error convert for vertex shader {fileID: 0 (globalgamemanagers.assets), pathID: 57, m_Name: Hidden/Universal Render Pipeline/Bloom, type: Shader}
+Error convert for fragment shader {fileID: 0 (globalgamemanagers.assets), pathID: 57, m_Name: Hidden/Universal Render Pipeline/Bloom, type: Shader}
+Error convert for vertex shader {fileID: 0 (globalgamemanagers.assets), pathID: 57, m_Name: Hidden/Universal Render Pipeline/Bloom, type: Shader}
+Error convert for fragment shader {fileID: 0 (globalgamemanagers.assets), pathID: 57, m_Name: Hidden/Universal Render Pipeline/Bloom, type: Shader}
+Error convert for vertex shader {fileID: 0 (globalgamemanagers.assets), pathID: 57, m_Name: Hidden/Universal Render Pipeline/Bloom, type: Shader}
+Error convert for fragment shader {fileID: 0 (globalgamemanagers.assets), pathID: 57, m_Name: Hidden/Universal Render Pipeline/Bloom, type: Shader}
+Error convert for vertex shader {fileID: 0 (globalgamemanagers.assets), pathID: 57, m_Name: Hidden/Universal Render Pipeline/Bloom, type: Shader}
+Error convert for fragment shader {fileID: 0 (globalgamemanagers.assets), pathID: 57, m_Name: Hidden/Universal Render Pipeline/Bloom, type: Shader}
+Error convert for vertex shader {fileID: 0 (globalgamemanagers.assets), pathID: 58, m_Name: Hidden/Universal Render Pipeline/MaterialError, type: Shader}
+Error convert for fragment shader {fileID: 0 (globalgamemanagers.assets), pathID: 58, m_Name: Hidden/Universal Render Pipeline/MaterialError, type: Shader}
+Error convert for vertex shader {fileID: 0 (globalgamemanagers.assets), pathID: 59, m_Name: Hidden/Universal Render Pipeline/SubpixelMorphologicalAntialiasing, type: Shader}
+Error convert for fragment shader {fileID: 0 (globalgamemanagers.assets), pathID: 59, m_Name: Hidden/Universal Render Pipeline/SubpixelMorphologicalAntialiasing, type: Shader}
+Error convert for vertex shader {fileID: 0 (globalgamemanagers.assets), pathID: 59, m_Name: Hidden/Universal Render Pipeline/SubpixelMorphologicalAntialiasing, type: Shader}
+Error convert for fragment shader {fileID: 0 (globalgamemanagers.assets), pathID: 59, m_Name: Hidden/Universal Render Pipeline/SubpixelMorphologicalAntialiasing, type: Shader}
+Error convert for vertex shader {fileID: 0 (globalgamemanagers.assets), pathID: 59, m_Name: Hidden/Universal Render Pipeline/SubpixelMorphologicalAntialiasing, type: Shader}
+Error convert for fragment shader {fileID: 0 (globalgamemanagers.assets), pathID: 59, m_Name: Hidden/Universal Render Pipeline/SubpixelMorphologicalAntialiasing, type: Shader}
+Error convert for vertex shader {fileID: 0 (globalgamemanagers.assets), pathID: 60, m_Name: Hidden/Universal Render Pipeline/LutBuilderLdr, type: Shader}
+Error convert for fragment shader {fileID: 0 (globalgamemanagers.assets), pathID: 60, m_Name: Hidden/Universal Render Pipeline/LutBuilderLdr, type: Shader}
+Error convert for vertex shader {fileID: 0 (globalgamemanagers.assets), pathID: 61, m_Name: Hidden/Universal Render Pipeline/LensFlareDataDriven, type: Shader}
+Error convert for fragment shader {fileID: 0 (globalgamemanagers.assets), pathID: 61, m_Name: Hidden/Universal Render Pipeline/LensFlareDataDriven, type: Shader}
+Error convert for vertex shader {fileID: 0 (globalgamemanagers.assets), pathID: 61, m_Name: Hidden/Universal Render Pipeline/LensFlareDataDriven, type: Shader}
+Error convert for fragment shader {fileID: 0 (globalgamemanagers.assets), pathID: 61, m_Name: Hidden/Universal Render Pipeline/LensFlareDataDriven, type: Shader}
+Error convert for vertex shader {fileID: 0 (globalgamemanagers.assets), pathID: 61, m_Name: Hidden/Universal Render Pipeline/LensFlareDataDriven, type: Shader}
+Error convert for fragment shader {fileID: 0 (globalgamemanagers.assets), pathID: 61, m_Name: Hidden/Universal Render Pipeline/LensFlareDataDriven, type: Shader}
+Error convert for vertex shader {fileID: 0 (globalgamemanagers.assets), pathID: 61, m_Name: Hidden/Universal Render Pipeline/LensFlareDataDriven, type: Shader}
+Error convert for fragment shader {fileID: 0 (globalgamemanagers.assets), pathID: 61, m_Name: Hidden/Universal Render Pipeline/LensFlareDataDriven, type: Shader}
+Error convert for vertex shader {fileID: 0 (globalgamemanagers.assets), pathID: 62, m_Name: Hidden/kMotion/ObjectMotionVectors, type: Shader}
+Error convert for fragment shader {fileID: 0 (globalgamemanagers.assets), pathID: 62, m_Name: Hidden/kMotion/ObjectMotionVectors, type: Shader}
+Error convert for vertex shader {fileID: 0 (globalgamemanagers.assets), pathID: 63, m_Name: Hidden/Universal/CoreBlit, type: Shader}
+Error convert for fragment shader {fileID: 0 (globalgamemanagers.assets), pathID: 63, m_Name: Hidden/Universal/CoreBlit, type: Shader}
+Error convert for vertex shader {fileID: 0 (globalgamemanagers.assets), pathID: 63, m_Name: Hidden/Universal/CoreBlit, type: Shader}
+Error convert for fragment shader {fileID: 0 (globalgamemanagers.assets), pathID: 63, m_Name: Hidden/Universal/CoreBlit, type: Shader}
+Error convert for vertex shader {fileID: 0 (globalgamemanagers.assets), pathID: 63, m_Name: Hidden/Universal/CoreBlit, type: Shader}
+Error convert for fragment shader {fileID: 0 (globalgamemanagers.assets), pathID: 63, m_Name: Hidden/Universal/CoreBlit, type: Shader}
+Error convert for vertex shader {fileID: 0 (globalgamemanagers.assets), pathID: 63, m_Name: Hidden/Universal/CoreBlit, type: Shader}
+Error convert for fragment shader {fileID: 0 (globalgamemanagers.assets), pathID: 63, m_Name: Hidden/Universal/CoreBlit, type: Shader}
+Error convert for vertex shader {fileID: 0 (globalgamemanagers.assets), pathID: 63, m_Name: Hidden/Universal/CoreBlit, type: Shader}
+Error convert for fragment shader {fileID: 0 (globalgamemanagers.assets), pathID: 63, m_Name: Hidden/Universal/CoreBlit, type: Shader}
+Error convert for vertex shader {fileID: 0 (globalgamemanagers.assets), pathID: 63, m_Name: Hidden/Universal/CoreBlit, type: Shader}
+Error convert for fragment shader {fileID: 0 (globalgamemanagers.assets), pathID: 63, m_Name: Hidden/Universal/CoreBlit, type: Shader}
+Error convert for vertex shader {fileID: 0 (globalgamemanagers.assets), pathID: 63, m_Name: Hidden/Universal/CoreBlit, type: Shader}
+Error convert for fragment shader {fileID: 0 (globalgamemanagers.assets), pathID: 63, m_Name: Hidden/Universal/CoreBlit, type: Shader}
+Error convert for vertex shader {fileID: 0 (globalgamemanagers.assets), pathID: 63, m_Name: Hidden/Universal/CoreBlit, type: Shader}
+Error convert for fragment shader {fileID: 0 (globalgamemanagers.assets), pathID: 63, m_Name: Hidden/Universal/CoreBlit, type: Shader}
+Error convert for vertex shader {fileID: 0 (globalgamemanagers.assets), pathID: 63, m_Name: Hidden/Universal/CoreBlit, type: Shader}
+Error convert for fragment shader {fileID: 0 (globalgamemanagers.assets), pathID: 63, m_Name: Hidden/Universal/CoreBlit, type: Shader}
+Error convert for vertex shader {fileID: 0 (globalgamemanagers.assets), pathID: 63, m_Name: Hidden/Universal/CoreBlit, type: Shader}
+Error convert for fragment shader {fileID: 0 (globalgamemanagers.assets), pathID: 63, m_Name: Hidden/Universal/CoreBlit, type: Shader}
+Error convert for vertex shader {fileID: 0 (globalgamemanagers.assets), pathID: 63, m_Name: Hidden/Universal/CoreBlit, type: Shader}
+Error convert for fragment shader {fileID: 0 (globalgamemanagers.assets), pathID: 63, m_Name: Hidden/Universal/CoreBlit, type: Shader}
+Error convert for vertex shader {fileID: 0 (globalgamemanagers.assets), pathID: 63, m_Name: Hidden/Universal/CoreBlit, type: Shader}
+Error convert for fragment shader {fileID: 0 (globalgamemanagers.assets), pathID: 63, m_Name: Hidden/Universal/CoreBlit, type: Shader}
+Error convert for vertex shader {fileID: 0 (globalgamemanagers.assets), pathID: 63, m_Name: Hidden/Universal/CoreBlit, type: Shader}
+Error convert for fragment shader {fileID: 0 (globalgamemanagers.assets), pathID: 63, m_Name: Hidden/Universal/CoreBlit, type: Shader}
+Error convert for vertex shader {fileID: 0 (globalgamemanagers.assets), pathID: 63, m_Name: Hidden/Universal/CoreBlit, type: Shader}
+Error convert for fragment shader {fileID: 0 (globalgamemanagers.assets), pathID: 63, m_Name: Hidden/Universal/CoreBlit, type: Shader}
+Error convert for vertex shader {fileID: 0 (globalgamemanagers.assets), pathID: 63, m_Name: Hidden/Universal/CoreBlit, type: Shader}
+Error convert for fragment shader {fileID: 0 (globalgamemanagers.assets), pathID: 63, m_Name: Hidden/Universal/CoreBlit, type: Shader}
+Error convert for vertex shader {fileID: 0 (globalgamemanagers.assets), pathID: 63, m_Name: Hidden/Universal/CoreBlit, type: Shader}
+Error convert for fragment shader {fileID: 0 (globalgamemanagers.assets), pathID: 63, m_Name: Hidden/Universal/CoreBlit, type: Shader}
+Error convert for vertex shader {fileID: 0 (globalgamemanagers.assets), pathID: 63, m_Name: Hidden/Universal/CoreBlit, type: Shader}
+Error convert for fragment shader {fileID: 0 (globalgamemanagers.assets), pathID: 63, m_Name: Hidden/Universal/CoreBlit, type: Shader}
+Error convert for vertex shader {fileID: 0 (globalgamemanagers.assets), pathID: 63, m_Name: Hidden/Universal/CoreBlit, type: Shader}
+Error convert for fragment shader {fileID: 0 (globalgamemanagers.assets), pathID: 63, m_Name: Hidden/Universal/CoreBlit, type: Shader}
+Error convert for vertex shader {fileID: 0 (globalgamemanagers.assets), pathID: 63, m_Name: Hidden/Universal/CoreBlit, type: Shader}
+Error convert for fragment shader {fileID: 0 (globalgamemanagers.assets), pathID: 63, m_Name: Hidden/Universal/CoreBlit, type: Shader}
+Error convert for vertex shader {fileID: 0 (globalgamemanagers.assets), pathID: 63, m_Name: Hidden/Universal/CoreBlit, type: Shader}
+Error convert for fragment shader {fileID: 0 (globalgamemanagers.assets), pathID: 63, m_Name: Hidden/Universal/CoreBlit, type: Shader}
+Error convert for vertex shader {fileID: 0 (globalgamemanagers.assets), pathID: 63, m_Name: Hidden/Universal/CoreBlit, type: Shader}
+Error convert for fragment shader {fileID: 0 (globalgamemanagers.assets), pathID: 63, m_Name: Hidden/Universal/CoreBlit, type: Shader}
+Error convert for vertex shader {fileID: 0 (globalgamemanagers.assets), pathID: 64, m_Name: Hidden/Universal Render Pipeline/PaniniProjection, type: Shader}
+Error convert for fragment shader {fileID: 0 (globalgamemanagers.assets), pathID: 64, m_Name: Hidden/Universal Render Pipeline/PaniniProjection, type: Shader}
+Error convert for vertex shader {fileID: 0 (globalgamemanagers.assets), pathID: 65, m_Name: Hidden/Universal Render Pipeline/Blit, type: Shader}
+Error convert for fragment shader {fileID: 0 (globalgamemanagers.assets), pathID: 65, m_Name: Hidden/Universal Render Pipeline/Blit, type: Shader}
+Error convert for vertex shader {fileID: 0 (globalgamemanagers.assets), pathID: 66, m_Name: Hidden/Universal Render Pipeline/FinalPost, type: Shader}
+Error convert for fragment shader {fileID: 0 (globalgamemanagers.assets), pathID: 66, m_Name: Hidden/Universal Render Pipeline/FinalPost, type: Shader}
+Error convert for vertex shader {fileID: 0 (globalgamemanagers.assets), pathID: 66, m_Name: Hidden/Universal Render Pipeline/FinalPost, type: Shader}
+Error convert for fragment shader {fileID: 0 (globalgamemanagers.assets), pathID: 66, m_Name: Hidden/Universal Render Pipeline/FinalPost, type: Shader}
+Error convert for vertex shader {fileID: 0 (globalgamemanagers.assets), pathID: 67, m_Name: Hidden/kMotion/CameraMotionVectors, type: Shader}
+Error convert for fragment shader {fileID: 0 (globalgamemanagers.assets), pathID: 67, m_Name: Hidden/kMotion/CameraMotionVectors, type: Shader}
+Error convert for vertex shader {fileID: 0 (globalgamemanagers.assets), pathID: 68, m_Name: Hidden/Universal Render Pipeline/Debug/DebugReplacement, type: Shader}
+Error convert for fragment shader {fileID: 0 (globalgamemanagers.assets), pathID: 68, m_Name: Hidden/Universal Render Pipeline/Debug/DebugReplacement, type: Shader}
+Error convert for vertex shader {fileID: 0 (globalgamemanagers.assets), pathID: 69, m_Name: Hidden/Universal/CoreBlitColorAndDepth, type: Shader}
+Error convert for fragment shader {fileID: 0 (globalgamemanagers.assets), pathID: 69, m_Name: Hidden/Universal/CoreBlitColorAndDepth, type: Shader}
+Error convert for vertex shader {fileID: 0 (globalgamemanagers.assets), pathID: 69, m_Name: Hidden/Universal/CoreBlitColorAndDepth, type: Shader}
+Error convert for fragment shader {fileID: 0 (globalgamemanagers.assets), pathID: 69, m_Name: Hidden/Universal/CoreBlitColorAndDepth, type: Shader}
+Error convert for vertex shader {fileID: 0 (globalgamemanagers.assets), pathID: 70, m_Name: Hidden/Universal Render Pipeline/XR/XRMirrorView, type: Shader}
+Error convert for fragment shader {fileID: 0 (globalgamemanagers.assets), pathID: 70, m_Name: Hidden/Universal Render Pipeline/XR/XRMirrorView, type: Shader}
+Error convert for vertex shader {fileID: 0 (globalgamemanagers.assets), pathID: 70, m_Name: Hidden/Universal Render Pipeline/XR/XRMirrorView, type: Shader}
+Error convert for fragment shader {fileID: 0 (globalgamemanagers.assets), pathID: 70, m_Name: Hidden/Universal Render Pipeline/XR/XRMirrorView, type: Shader}
+Error convert for vertex shader {fileID: 0 (globalgamemanagers.assets), pathID: 71, m_Name: Hidden/Universal Render Pipeline/CopyDepth, type: Shader}
+Error convert for fragment shader {fileID: 0 (globalgamemanagers.assets), pathID: 71, m_Name: Hidden/Universal Render Pipeline/CopyDepth, type: Shader}
+Error convert for vertex shader {fileID: 0 (globalgamemanagers.assets), pathID: 72, m_Name: Hidden/Universal Render Pipeline/FallbackError, type: Shader}
+Error convert for fragment shader {fileID: 0 (globalgamemanagers.assets), pathID: 72, m_Name: Hidden/Universal Render Pipeline/FallbackError, type: Shader}
+Dont support version 2048 != 202012090
+Dont support version 1 != 202012090
+Dont support version 2256760 != 202012090
+Dont support version 1 != 202012090
+Dont support version 1 != 202012090
+Dont support version 1 != 202012090
+Dont support version 11379676 != 202012090
+Dont support version 1 != 202012090
+Dont support version 2 != 202012090
+Dont support version 3349540 != 202012090
+Dont support version 2 != 202012090
+Dont support version 2 != 202012090
+Dont support version 9810940 != 202012090
+Dont support version 11692160 != 202012090
+Dont support version 2048 != 202012090
+Dont support version 2 != 202012090
+Error convert for vertex shader {fileID: 0 (globalgamemanagers.assets), pathID: 74, m_Name: Hidden/Universal Render Pipeline/Scaling Setup, type: Shader}
+Error convert for fragment shader {fileID: 0 (globalgamemanagers.assets), pathID: 74, m_Name: Hidden/Universal Render Pipeline/Scaling Setup, type: Shader}
+Error convert for vertex shader {fileID: 0 (globalgamemanagers.assets), pathID: 76, m_Name: Hidden/Universal Render Pipeline/LutBuilderHdr, type: Shader}
+Error convert for fragment shader {fileID: 0 (globalgamemanagers.assets), pathID: 76, m_Name: Hidden/Universal Render Pipeline/LutBuilderHdr, type: Shader}
+Error convert for vertex shader {fileID: 0 (sharedassets2.assets), pathID: 413, m_Name: Shader Graphs/MetaBuildingShader, type: Shader}
+Error convert for fragment shader {fileID: 0 (sharedassets2.assets), pathID: 413, m_Name: Shader Graphs/MetaBuildingShader, type: Shader}
+Error convert for vertex shader {fileID: 0 (sharedassets2.assets), pathID: 413, m_Name: Shader Graphs/MetaBuildingShader, type: Shader}
+Error convert for fragment shader {fileID: 0 (sharedassets2.assets), pathID: 413, m_Name: Shader Graphs/MetaBuildingShader, type: Shader}
+Error convert for vertex shader {fileID: 0 (sharedassets2.assets), pathID: 413, m_Name: Shader Graphs/MetaBuildingShader, type: Shader}
+Error convert for fragment shader {fileID: 0 (sharedassets2.assets), pathID: 413, m_Name: Shader Graphs/MetaBuildingShader, type: Shader}
+Error convert for vertex shader {fileID: 0 (sharedassets2.assets), pathID: 413, m_Name: Shader Graphs/MetaBuildingShader, type: Shader}
+Error convert for fragment shader {fileID: 0 (sharedassets2.assets), pathID: 413, m_Name: Shader Graphs/MetaBuildingShader, type: Shader}
+Error convert for vertex shader {fileID: 0 (sharedassets2.assets), pathID: 413, m_Name: Shader Graphs/MetaBuildingShader, type: Shader}
+Error convert for fragment shader {fileID: 0 (sharedassets2.assets), pathID: 413, m_Name: Shader Graphs/MetaBuildingShader, type: Shader}
+Error convert for vertex shader {fileID: 0 (sharedassets2.assets), pathID: 414, m_Name: Shader Graphs/PanelShadowShader, type: Shader}
+Error convert for fragment shader {fileID: 0 (sharedassets2.assets), pathID: 414, m_Name: Shader Graphs/PanelShadowShader, type: Shader}
+Error convert for vertex shader {fileID: 0 (sharedassets2.assets), pathID: 414, m_Name: Shader Graphs/PanelShadowShader, type: Shader}
+Error convert for fragment shader {fileID: 0 (sharedassets2.assets), pathID: 414, m_Name: Shader Graphs/PanelShadowShader, type: Shader}
+Error convert for vertex shader {fileID: 0 (sharedassets2.assets), pathID: 414, m_Name: Shader Graphs/PanelShadowShader, type: Shader}
+Error convert for fragment shader {fileID: 0 (sharedassets2.assets), pathID: 414, m_Name: Shader Graphs/PanelShadowShader, type: Shader}
+Error convert for vertex shader {fileID: 0 (sharedassets2.assets), pathID: 415, m_Name: Shader Graphs/PanelShader, type: Shader}
+Error convert for fragment shader {fileID: 0 (sharedassets2.assets), pathID: 415, m_Name: Shader Graphs/PanelShader, type: Shader}
+Error convert for vertex shader {fileID: 0 (sharedassets2.assets), pathID: 415, m_Name: Shader Graphs/PanelShader, type: Shader}
+Error convert for fragment shader {fileID: 0 (sharedassets2.assets), pathID: 415, m_Name: Shader Graphs/PanelShader, type: Shader}
+Error convert for vertex shader {fileID: 0 (sharedassets2.assets), pathID: 415, m_Name: Shader Graphs/PanelShader, type: Shader}
+Error convert for fragment shader {fileID: 0 (sharedassets2.assets), pathID: 415, m_Name: Shader Graphs/PanelShader, type: Shader}
+Error convert for vertex shader {fileID: 0 (sharedassets2.assets), pathID: 416, m_Name: Shader Graphs/ScrewShaderTest, type: Shader}
+Error convert for fragment shader {fileID: 0 (sharedassets2.assets), pathID: 416, m_Name: Shader Graphs/ScrewShaderTest, type: Shader}
+Error convert for vertex shader {fileID: 0 (sharedassets2.assets), pathID: 416, m_Name: Shader Graphs/ScrewShaderTest, type: Shader}
+Error convert for fragment shader {fileID: 0 (sharedassets2.assets), pathID: 416, m_Name: Shader Graphs/ScrewShaderTest, type: Shader}
+Error convert for vertex shader {fileID: 0 (sharedassets2.assets), pathID: 416, m_Name: Shader Graphs/ScrewShaderTest, type: Shader}
+Error convert for fragment shader {fileID: 0 (sharedassets2.assets), pathID: 416, m_Name: Shader Graphs/ScrewShaderTest, type: Shader}
+Error convert for vertex shader {fileID: 0 (sharedassets2.assets), pathID: 417, m_Name: Shader Graphs/ModuleShader, type: Shader}
+Error convert for fragment shader {fileID: 0 (sharedassets2.assets), pathID: 417, m_Name: Shader Graphs/ModuleShader, type: Shader}
+Error convert for vertex shader {fileID: 0 (sharedassets2.assets), pathID: 417, m_Name: Shader Graphs/ModuleShader, type: Shader}
+Error convert for fragment shader {fileID: 0 (sharedassets2.assets), pathID: 417, m_Name: Shader Graphs/ModuleShader, type: Shader}
+Error convert for vertex shader {fileID: 0 (sharedassets2.assets), pathID: 417, m_Name: Shader Graphs/ModuleShader, type: Shader}
+Error convert for fragment shader {fileID: 0 (sharedassets2.assets), pathID: 417, m_Name: Shader Graphs/ModuleShader, type: Shader}
+Error convert for vertex shader {fileID: 0 (sharedassets2.assets), pathID: 418, m_Name: Shader Graphs/GradientPlane, type: Shader}
+Error convert for fragment shader {fileID: 0 (sharedassets2.assets), pathID: 418, m_Name: Shader Graphs/GradientPlane, type: Shader}
+Error convert for vertex shader {fileID: 0 (sharedassets2.assets), pathID: 418, m_Name: Shader Graphs/GradientPlane, type: Shader}
+Error convert for fragment shader {fileID: 0 (sharedassets2.assets), pathID: 418, m_Name: Shader Graphs/GradientPlane, type: Shader}
+Error convert for vertex shader {fileID: 0 (sharedassets2.assets), pathID: 418, m_Name: Shader Graphs/GradientPlane, type: Shader}
+Error convert for fragment shader {fileID: 0 (sharedassets2.assets), pathID: 418, m_Name: Shader Graphs/GradientPlane, type: Shader}
+Error convert for vertex shader {fileID: 0 (sharedassets2.assets), pathID: 418, m_Name: Shader Graphs/GradientPlane, type: Shader}
+Error convert for fragment shader {fileID: 0 (sharedassets2.assets), pathID: 418, m_Name: Shader Graphs/GradientPlane, type: Shader}
+Error convert for vertex shader {fileID: 0 (sharedassets2.assets), pathID: 418, m_Name: Shader Graphs/GradientPlane, type: Shader}
+Error convert for fragment shader {fileID: 0 (sharedassets2.assets), pathID: 418, m_Name: Shader Graphs/GradientPlane, type: Shader}
+Error convert for vertex shader {fileID: 0 (sharedassets2.assets), pathID: 419, m_Name: Shader Graphs/ColorSlotShapeShader, type: Shader}
+Error convert for fragment shader {fileID: 0 (sharedassets2.assets), pathID: 419, m_Name: Shader Graphs/ColorSlotShapeShader, type: Shader}
+Error convert for vertex shader {fileID: 0 (sharedassets2.assets), pathID: 419, m_Name: Shader Graphs/ColorSlotShapeShader, type: Shader}
+Error convert for fragment shader {fileID: 0 (sharedassets2.assets), pathID: 419, m_Name: Shader Graphs/ColorSlotShapeShader, type: Shader}
+Error convert for vertex shader {fileID: 0 (sharedassets2.assets), pathID: 424, m_Name: Spine/Skeleton, type: Shader}
+Error convert for fragment shader {fileID: 0 (sharedassets2.assets), pathID: 424, m_Name: Spine/Skeleton, type: Shader}
+Error convert for vertex shader {fileID: 0 (sharedassets2.assets), pathID: 424, m_Name: Spine/Skeleton, type: Shader}
+Error convert for fragment shader {fileID: 0 (sharedassets2.assets), pathID: 424, m_Name: Spine/Skeleton, type: Shader}
+Error convert for vertex shader {fileID: 0 (sharedassets2.assets), pathID: 425, m_Name: Spine/Blend Modes/Skeleton PMA Additive, type: Shader}
+Error convert for fragment shader {fileID: 0 (sharedassets2.assets), pathID: 425, m_Name: Spine/Blend Modes/Skeleton PMA Additive, type: Shader}
+Error convert for vertex shader {fileID: 0 (sharedassets2.assets), pathID: 425, m_Name: Spine/Blend Modes/Skeleton PMA Additive, type: Shader}
+Error convert for fragment shader {fileID: 0 (sharedassets2.assets), pathID: 425, m_Name: Spine/Blend Modes/Skeleton PMA Additive, type: Shader}
+Error convert for vertex shader {fileID: 0 (sharedassets2.assets), pathID: 426, m_Name: Spine/Blend Modes/Skeleton PMA Multiply, type: Shader}
+Error convert for fragment shader {fileID: 0 (sharedassets2.assets), pathID: 426, m_Name: Spine/Blend Modes/Skeleton PMA Multiply, type: Shader}
+Error convert for vertex shader {fileID: 0 (sharedassets2.assets), pathID: 426, m_Name: Spine/Blend Modes/Skeleton PMA Multiply, type: Shader}
+Error convert for fragment shader {fileID: 0 (sharedassets2.assets), pathID: 426, m_Name: Spine/Blend Modes/Skeleton PMA Multiply, type: Shader}
+Error convert for vertex shader {fileID: 0 (sharedassets2.assets), pathID: 427, m_Name: Universal Render Pipeline/Lit, type: Shader}
+Error convert for fragment shader {fileID: 0 (sharedassets2.assets), pathID: 427, m_Name: Universal Render Pipeline/Lit, type: Shader}
+Error convert for vertex shader {fileID: 0 (sharedassets2.assets), pathID: 427, m_Name: Universal Render Pipeline/Lit, type: Shader}
+Error convert for fragment shader {fileID: 0 (sharedassets2.assets), pathID: 427, m_Name: Universal Render Pipeline/Lit, type: Shader}
+Error convert for vertex shader {fileID: 0 (sharedassets2.assets), pathID: 427, m_Name: Universal Render Pipeline/Lit, type: Shader}
+Error convert for fragment shader {fileID: 0 (sharedassets2.assets), pathID: 427, m_Name: Universal Render Pipeline/Lit, type: Shader}
+Error convert for vertex shader {fileID: 0 (sharedassets2.assets), pathID: 427, m_Name: Universal Render Pipeline/Lit, type: Shader}
+Error convert for fragment shader {fileID: 0 (sharedassets2.assets), pathID: 427, m_Name: Universal Render Pipeline/Lit, type: Shader}
+Error convert for vertex shader {fileID: 0 (sharedassets2.assets), pathID: 427, m_Name: Universal Render Pipeline/Lit, type: Shader}
+Error convert for fragment shader {fileID: 0 (sharedassets2.assets), pathID: 427, m_Name: Universal Render Pipeline/Lit, type: Shader}
+Error convert for vertex shader {fileID: 0 (sharedassets2.assets), pathID: 428, m_Name: Spine/SkeletonGraphic Additive, type: Shader}
+Error convert for fragment shader {fileID: 0 (sharedassets2.assets), pathID: 428, m_Name: Spine/SkeletonGraphic Additive, type: Shader}
+Error convert for vertex shader {fileID: 0 (sharedassets2.assets), pathID: 429, m_Name: Spine/SkeletonGraphic Screen, type: Shader}
+Error convert for fragment shader {fileID: 0 (sharedassets2.assets), pathID: 429, m_Name: Spine/SkeletonGraphic Screen, type: Shader}
+Error convert for vertex shader {fileID: 0 (sharedassets2.assets), pathID: 430, m_Name: Custom/WinStreakGradient, type: Shader}
+Error convert for fragment shader {fileID: 0 (sharedassets2.assets), pathID: 430, m_Name: Custom/WinStreakGradient, type: Shader}
+Error convert for vertex shader {fileID: 0 (sharedassets2.assets), pathID: 431, m_Name: Spine/SkeletonGraphic Multiply, type: Shader}
+Error convert for fragment shader {fileID: 0 (sharedassets2.assets), pathID: 431, m_Name: Spine/SkeletonGraphic Multiply, type: Shader}
+Error convert for vertex shader {fileID: 0 (sharedassets2.assets), pathID: 432, m_Name: Hidden/Shader Graph/FallbackError, type: Shader}
+Error convert for fragment shader {fileID: 0 (sharedassets2.assets), pathID: 432, m_Name: Hidden/Shader Graph/FallbackError, type: Shader}
+Error convert for vertex shader {fileID: 0 (sharedassets2.assets), pathID: 433, m_Name: Universal Render Pipeline/2D/Sprite-Lit-Default, type: Shader}
+Error convert for fragment shader {fileID: 0 (sharedassets2.assets), pathID: 433, m_Name: Universal Render Pipeline/2D/Sprite-Lit-Default, type: Shader}
+Error convert for vertex shader {fileID: 0 (sharedassets2.assets), pathID: 433, m_Name: Universal Render Pipeline/2D/Sprite-Lit-Default, type: Shader}
+Error convert for fragment shader {fileID: 0 (sharedassets2.assets), pathID: 433, m_Name: Universal Render Pipeline/2D/Sprite-Lit-Default, type: Shader}
+Error convert for vertex shader {fileID: 0 (sharedassets2.assets), pathID: 433, m_Name: Universal Render Pipeline/2D/Sprite-Lit-Default, type: Shader}
+Error convert for fragment shader {fileID: 0 (sharedassets2.assets), pathID: 433, m_Name: Universal Render Pipeline/2D/Sprite-Lit-Default, type: Shader}
+Error convert for vertex shader {fileID: 0 (sharedassets2.assets), pathID: 434, m_Name: Custom/Gradient, type: Shader}
+Error convert for fragment shader {fileID: 0 (sharedassets2.assets), pathID: 434, m_Name: Custom/Gradient, type: Shader}
+Error convert for vertex shader {fileID: 0 (sharedassets2.assets), pathID: 435, m_Name: Spine/SkeletonGraphic, type: Shader}
+Error convert for fragment shader {fileID: 0 (sharedassets2.assets), pathID: 435, m_Name: Spine/SkeletonGraphic, type: Shader}
+Missed: for UnityEngine.IMGUIModule.dll/UnityEngine/GUISkin
+Warning: pos: 96 != len: 8488 for: {fileID: 0 (unity default resources), pathID: 11000, m_Name: GameSkin, type: MonoBehaviour}
+Missed: for UnityEngine.IMGUIModule.dll/UnityEngine/GUISkin
+Missed: for UnityEngine.IMGUIModule.dll/UnityEngine/GUISkin
+Missed: for Unity.RenderPipelines.Universal.Runtime.dll/UnityEngine.Rendering.Universal/UniversalRendererData
+Missed: for Unity.RenderPipelines.Universal.Runtime.dll/UnityEngine.Rendering.Universal/UniversalRendererData
+Missed: for Unity.RenderPipelines.Universal.Runtime.dll/UnityEngine.Rendering.Universal/UniversalRendererData
+Missed: for Unity.RenderPipelines.Universal.Runtime.dll/UnityEngine.Rendering.Universal/UniversalRendererData
+Missed: for Unity.RenderPipelines.Universal.Runtime.dll/UnityEngine.Rendering.Universal/UniversalRendererData
+Missed: for Unity.RenderPipelines.Universal.Runtime.dll/UnityEngine.Rendering.Universal/UniversalRenderPipelineAsset
+Missed: for Unity.RenderPipelines.Universal.Runtime.dll/UnityEngine.Rendering.Universal/UniversalRenderPipelineAsset
+Missed: for Unity.RenderPipelines.Universal.Runtime.dll/UnityEngine.Rendering.Universal/UniversalRenderPipelineAsset
+Missed: for Unity.RenderPipelines.Universal.Runtime.dll/UnityEngine.Rendering.Universal/UniversalRenderPipelineAsset
+Missed: for Unity.RenderPipelines.Universal.Runtime.dll/UnityEngine.Rendering.Universal/UniversalRenderPipelineAsset
+Missed: for Unity.RenderPipelines.Universal.Runtime.dll/UnityEngine.Rendering.Universal/UniversalRenderPipelineGlobalSettings
+Missed: for Unity.RenderPipelines.Universal.Runtime.dll/UnityEngine.Rendering.Universal/UniversalRenderPipelineGlobalSettings
+Missed: for Unity.RenderPipelines.Universal.Runtime.dll/UnityEngine.Rendering.Universal/UniversalRenderPipelineGlobalSettings
+Missed: for Unity.RenderPipelines.Universal.Runtime.dll/UnityEngine.Rendering.Universal/UniversalRenderPipelineGlobalSettings
+Missed: for Unity.RenderPipelines.Universal.Runtime.dll/UnityEngine.Rendering.Universal/UniversalRenderPipelineGlobalSettings
+Missed: for Unity.RenderPipelines.Universal.Runtime.dll/UnityEngine.Rendering.Universal/PostProcessData
+Missed: for Unity.RenderPipelines.Universal.Runtime.dll/UnityEngine.Rendering.Universal/PostProcessData
+Missed: for Unity.RenderPipelines.Universal.Runtime.dll/UnityEngine.Rendering.Universal/PostProcessData
+Missed: for Unity.RenderPipelines.Universal.Runtime.dll/UnityEngine.Rendering.Universal/XRSystemData
+Missed: for Unity.RenderPipelines.Universal.Runtime.dll/UnityEngine.Rendering.Universal/XRSystemData
+Missed: for Unity.RenderPipelines.Universal.Runtime.dll/UnityEngine.Rendering.Universal/XRSystemData
+Missed: for Unity.RenderPipelines.Universal.Runtime.dll/UnityEngine.Rendering.Universal/XRSystemData
+Missed: for Unity.RenderPipelines.Universal.Runtime.dll/UnityEngine.Rendering.Universal/XRSystemData
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIntField
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIntField
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerFloatField
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerFloatField
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerValue
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerValue
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerUIntField
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerUIntField
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerCanvas
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerCanvas
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectFloatField
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectFloatField
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerContainer
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerContainer
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectFloatField
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/UIFoldout
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/UIFoldout
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerColor
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerColor
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectFloatField
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectFloatField
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerHBox
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerHBox
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerHBox
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerContainer
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerEnumField
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerEnumField
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerButton
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerButton
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerToggle
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerToggle
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/UIFoldout
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/UIFoldout
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerContainer
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerContainer
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectFloatField
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectFloatField
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectFloatField
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectFloatField
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerVector3
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerVector3
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerPanel
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerPanel
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerContainer
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerContainer
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerContainer
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerContainer
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerGroup
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerGroup
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/UIFoldout
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/UIFoldout
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectFloatField
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectFloatField
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectFloatField
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerContainer
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerVector4
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerVector4
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectFloatField
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectFloatField
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerPersistentCanvas
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerPersistentCanvas
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectFloatField
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectFloatField
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/UIFoldout
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/UIFoldout
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerContainer
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerContainer
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectFloatField
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerVector2
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerVector2
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerMessageBox
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerMessageBox
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerMessageBox
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerContainer
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerContainer
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/UIFoldout
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/UIFoldout
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerFoldout
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerFoldout
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerContainer
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/UIFoldout
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerRow
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerRow
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerRow
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerContainer
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerContainer
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerVBox
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerVBox
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerVBox
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerEnumHistory
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerEnumHistory
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectToggle
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectToggle
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectToggle
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectToggle
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectToggle
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectToggle
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectToggle
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectToggle
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectToggle
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectToggle
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectToggle
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectToggle
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectToggle
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectToggle
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectToggle
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectToggle
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectToggle
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/UIFoldout
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/UIFoldout
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerContainer
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerContainer
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerBitField
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerBitField
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectToggle
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectToggle
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectToggle
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectToggle
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectToggle
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectToggle
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectToggle
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectToggle
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectToggle
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectToggle
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectToggle
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectToggle
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectToggle
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectToggle
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectToggle
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectToggle
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectToggle
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectToggle
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectToggle
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TMP_InputField
+Missed: for Unity.TextMeshPro.dll/TMPro/TMP_InputField
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerToggleHistory
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerToggleHistory
+1 GameObject 2021.3.23f1 - not find and will be used 2021.3.16f1
+225 CanvasGroup 2021.3.23f1 - not find and will be used 2021.3.16f1
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIntField
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerFloatField
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerValue
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerUIntField
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerCanvas
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/UIFoldout
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectFloatField
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerColor
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerContainer
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerHBox
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerEnumField
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerButton
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerToggle
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/UIFoldout
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectFloatField
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerContainer
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerVector3
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerPanel
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerGroup
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerVector4
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerPersistentCanvas
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerVector2
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerMessageBox
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerFoldout
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerRow
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerVBox
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerEnumHistory
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectToggle
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectToggle
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerContainer
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerBitField
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TMP_InputField
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerToggleHistory
+Missed: for Unity.TextMeshPro.dll/TMPro/TMP_FontAsset
+Missed: for Unity.TextMeshPro.dll/TMPro/TMP_FontAsset
+{fileID: 1 (globalgamemanagers.assets), pathID: 47244640256} - is bad link C:\Users\Admin\AppData\Local\Temp\~unpack-3bd8e6d8-63d2-4926-b64c-9d025fa8a17b\resources.assets  PreloadAsset==null
+Missed: for Unity.TextMeshPro.dll/TMPro/TMP_FontAsset
+{fileID: 1 (globalgamemanagers.assets), pathID: 42949672960} - is bad link C:\Users\Admin\AppData\Local\Temp\~unpack-3bd8e6d8-63d2-4926-b64c-9d025fa8a17b\resources.assets  PreloadAsset==null
+Missed: for Unity.TextMeshPro.dll/TMPro/TMP_SpriteAsset
+Missed: for Unity.TextMeshPro.dll/TMPro/TMP_SpriteAsset
+Missed: for Unity.TextMeshPro.dll/TMPro/TMP_StyleSheet
+Missed: for Unity.TextMeshPro.dll/TMPro/TMP_StyleSheet
+Missed: for Unity.TextMeshPro.dll/TMPro/TMP_Settings
+Missed: for Unity.TextMeshPro.dll/TMPro/TMP_Settings
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshPro
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshPro
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshPro
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshPro
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.RenderPipelines.Universal.Runtime.dll/UnityEngine.Rendering.Universal/UniversalAdditionalLightData
+Missed: for Unity.RenderPipelines.Universal.Runtime.dll/UnityEngine.Rendering.Universal/UniversalAdditionalLightData
+Missed: for Unity.RenderPipelines.Universal.Runtime.dll/UnityEngine.Rendering.Universal/UniversalAdditionalLightData
+Missed: for Unity.RenderPipelines.Universal.Runtime.dll/UnityEngine.Rendering.Universal/UniversalAdditionalLightData
+Missed: for Unity.RenderPipelines.Universal.Runtime.dll/UnityEngine.Rendering.Universal/UniversalAdditionalLightData
+Missed: for Unity.RenderPipelines.Universal.Runtime.dll/UnityEngine.Rendering.Universal/UniversalAdditionalLightData
+Missed: for Unity.RenderPipelines.Universal.Runtime.dll/UnityEngine.Rendering.Universal/UniversalAdditionalLightData
+Missed: for Unity.RenderPipelines.Universal.Runtime.dll/UnityEngine.Rendering.Universal/UniversalAdditionalLightData
+Missed: for Unity.RenderPipelines.Universal.Runtime.dll/UnityEngine.Rendering.Universal/UniversalAdditionalLightData
+Missed: for Unity.RenderPipelines.Universal.Runtime.dll/UnityEngine.Rendering.Universal/UniversalAdditionalLightData
+Missed: for Unity.RenderPipelines.Universal.Runtime.dll/UnityEngine.Rendering.Universal/UniversalAdditionalLightData
+Missed: for Unity.RenderPipelines.Universal.Runtime.dll/UnityEngine.Rendering.Universal/UniversalAdditionalLightData
+Missed: for Unity.RenderPipelines.Universal.Runtime.dll/UnityEngine.Rendering.Universal/UniversalAdditionalLightData
+Missed: for Unity.RenderPipelines.Universal.Runtime.dll/UnityEngine.Rendering.Universal/UniversalAdditionalLightData
+Missed: for Unity.RenderPipelines.Universal.Runtime.dll/UnityEngine.Rendering.Universal/UniversalAdditionalLightData
+Missed: for Unity.RenderPipelines.Universal.Runtime.dll/UnityEngine.Rendering.Universal/UniversalAdditionalLightData
+Missed: for Unity.RenderPipelines.Universal.Runtime.dll/UnityEngine.Rendering.Universal/UniversalAdditionalLightData
+Missed: for Unity.RenderPipelines.Universal.Runtime.dll/UnityEngine.Rendering.Universal/UniversalAdditionalLightData
+Missed: for Unity.RenderPipelines.Universal.Runtime.dll/UnityEngine.Rendering.Universal/UniversalAdditionalLightData
+Missed: for Unity.RenderPipelines.Universal.Runtime.dll/UnityEngine.Rendering.Universal/UniversalAdditionalLightData
+Missed: for Unity.RenderPipelines.Universal.Runtime.dll/UnityEngine.Rendering.Universal/UniversalAdditionalLightData
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+item.Name=z___Gradient_GradientTex{"mode":0,"colorKeys":[{"color":{"r":0.7239435315132141,"g":0.5330188274383545,"b":1.0,"a":1.0},"time":0.0},{"color":{"r":1.0,"g":0.7136606574058533,"b":0.46666669845581057,"a":1.0},"time":0.7264667749404907}],"alphaKeys":[{"alpha":1.0,"time":0.0},{"alpha":1.0,"time":1.0}]}
+System.IO.PathTooLongException: The specified path, file name, or both are too long. The fully qualified file name must be less than 260 characters, and the directory name must be less than 248 characters. at System.IO.Path.LegacyNormalizePath(String path, Boolean fullCheck, Int32 maxPathLength, Boolean expandShortPaths) at System.IO.Path.InternalGetDirectoryName(String path) at 
+ . 
+ (String ) at 
+ . 
+ (String , Byte[] 
+) at as. 
+ .ExportUnityAsset(String dir) at 
+. 
+ 
+( 
+ , String 
+, HashSet`1 , Queue`1 )
+item.Name=z___Gradient_GradientTex{"mode":0,"colorKeys":[{"color":{"r":0.36320751905441286,"g":0.559678852558136,"b":1.0,"a":1.0},"time":0.0},{"color":{"r":0.9622641801834106,"g":0.5946066379547119,"b":0.9460440874099731,"a":1.0},"time":0.6705882549285889}],"alphaKeys":[{"alpha":1.0,"time":0.0},{"alpha":1.0,"time":1.0}]}
+System.IO.PathTooLongException: The specified path, file name, or both are too long. The fully qualified file name must be less than 260 characters, and the directory name must be less than 248 characters. at System.IO.Path.LegacyNormalizePath(String path, Boolean fullCheck, Int32 maxPathLength, Boolean expandShortPaths) at System.IO.Path.InternalGetDirectoryName(String path) at 
+ . 
+ (String ) at 
+ . 
+ (String , Byte[] 
+) at as. 
+ .ExportUnityAsset(String dir) at 
+. 
+ 
+( 
+ , String 
+, HashSet`1 , Queue`1 )
+item.Name=z___Gradient_GradientTex{"mode":0,"colorKeys":[{"color":{"r":0.39215683937072756,"g":1.0,"b":0.9934443235397339,"a":1.0},"time":0.0},{"color":{"r":1.0,"g":0.7630136013031006,"b":0.5607843399047852,"a":1.0},"time":0.5676508545875549}],"alphaKeys":[{"alpha":1.0,"time":0.0},{"alpha":1.0,"time":1.0}]}
+System.IO.PathTooLongException: The specified path, file name, or both are too long. The fully qualified file name must be less than 260 characters, and the directory name must be less than 248 characters. at System.IO.Path.LegacyNormalizePath(String path, Boolean fullCheck, Int32 maxPathLength, Boolean expandShortPaths) at System.IO.Path.InternalGetDirectoryName(String path) at 
+ . 
+ (String ) at 
+ . 
+ (String , Byte[] 
+) at as. 
+ .ExportUnityAsset(String dir) at 
+. 
+ 
+( 
+ , String 
+, HashSet`1 , Queue`1 )
+item.Name=z___Gradient_GradientTex{"mode":0,"colorKeys":[{"color":{"r":1.0,"g":0.28773581981658938,"b":0.4467850625514984,"a":1.0},"time":0.0},{"color":{"r":1.0,"g":0.9292452931404114,"b":0.9292452931404114,"a":1.0},"time":0.7470664381980896}],"alphaKeys":[{"alpha":1.0,"time":0.0},{"alpha":1.0,"time":1.0}]}
+System.IO.PathTooLongException: The specified path, file name, or both are too long. The fully qualified file name must be less than 260 characters, and the directory name must be less than 248 characters. at System.IO.Path.LegacyNormalizePath(String path, Boolean fullCheck, Int32 maxPathLength, Boolean expandShortPaths) at System.IO.Path.InternalGetDirectoryName(String path) at 
+ . 
+ (String ) at 
+ . 
+ (String , Byte[] 
+) at as. 
+ .ExportUnityAsset(String dir) at 
+. 
+ 
+( 
+ , String 
+, HashSet`1 , Queue`1 )
+item.Name=z___Gradient_GradientTex{"mode":0,"colorKeys":[{"color":{"r":0.7877358198165894,"g":0.8970986008644104,"b":1.0,"a":1.0},"time":0.0},{"color":{"r":0.46698111295700076,"g":1.0,"b":0.6833886504173279,"a":1.0},"time":0.7088273167610169}],"alphaKeys":[{"alpha":1.0,"time":0.0},{"alpha":1.0,"time":1.0}]}
+System.IO.PathTooLongException: The specified path, file name, or both are too long. The fully qualified file name must be less than 260 characters, and the directory name must be less than 248 characters. at System.IO.Path.LegacyNormalizePath(String path, Boolean fullCheck, Int32 maxPathLength, Boolean expandShortPaths) at System.IO.Path.InternalGetDirectoryName(String path) at 
+ . 
+ (String ) at 
+ . 
+ (String , Byte[] 
+) at as. 
+ .ExportUnityAsset(String dir) at 
+. 
+ 
+( 
+ , String 
+, HashSet`1 , Queue`1 )
+50 Rigidbody2D 2021.3.23f1 - not find and will be used 2021.3.16f1
+137 SkinnedMeshRenderer 2021.3.23f1 - not find and will be used 2021.3.16f1
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+114 MonoBehaviour 2021.3.23f1 - not find and will be used 2021.3.16f1
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshPro
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshPro
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.RenderPipelines.Universal.Runtime.dll/UnityEngine.Rendering.Universal/UniversalAdditionalLightData
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TMP_FontAsset
+Missed: for Unity.TextMeshPro.dll/TMPro/TMP_FontAsset
+Missed: for Unity.TextMeshPro.dll/TMPro/TMP_FontAsset
+Missed: for Unity.TextMeshPro.dll/TMPro/TMP_FontAsset
+Missed: for Unity.TextMeshPro.dll/TMPro/TMP_FontAsset
+Missed: for Unity.TextMeshPro.dll/TMPro/TMP_FontAsset
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.Usercentrics.dll/Unity.Usercentrics/Usercentrics
+Missed: for Unity.Usercentrics.dll/Unity.Usercentrics/Usercentrics
+Missed: for Unity.Usercentrics.dll/Unity.Usercentrics/Usercentrics
+Missed: for Unity.Usercentrics.dll/Unity.Usercentrics/Usercentrics
+Missed: for Unity.Usercentrics.dll/Unity.Usercentrics/Usercentrics
+Missed: for Unity.Usercentrics.dll/Unity.Usercentrics/AutoInitialize
+Missed: for Unity.Usercentrics.dll/Unity.Usercentrics/AutoInitialize
+Missed: for Unity.Usercentrics.dll/Unity.Usercentrics/AutoInitialize
+Missed: for Unity.Usercentrics.dll/Unity.Usercentrics/AutoInitialize
+Missed: for Unity.Usercentrics.dll/Unity.Usercentrics/AutoInitialize
+Missed: for Unity.RenderPipelines.Universal.Runtime.dll/UnityEngine.Rendering.Universal/UniversalAdditionalCameraData
+Missed: for Unity.RenderPipelines.Universal.Runtime.dll/UnityEngine.Rendering.Universal/UniversalAdditionalCameraData
+Missed: for Unity.RenderPipelines.Universal.Runtime.dll/UnityEngine.Rendering.Universal/UniversalAdditionalCameraData
+Missed: for Unity.RenderPipelines.Universal.Runtime.dll/UnityEngine.Rendering.Universal/UniversalAdditionalCameraData
+Missed: for Unity.RenderPipelines.Universal.Runtime.dll/UnityEngine.Rendering.Universal/UniversalAdditionalCameraData
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshPro
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshPro
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshPro
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshPro
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshPro
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshPro
+Missed: for Unity.RenderPipelines.Universal.Runtime.dll/UnityEngine.Rendering.Universal/UniversalAdditionalLightData
+Missed: for Unity.RenderPipelines.Universal.Runtime.dll/UnityEngine.Rendering.Universal/UniversalAdditionalLightData
+Missed: for Unity.RenderPipelines.Universal.Runtime.dll/UnityEngine.Rendering.Universal/UniversalAdditionalLightData
+Missed: for Unity.RenderPipelines.Universal.Runtime.dll/UnityEngine.Rendering.Universal/UniversalAdditionalLightData
+Missed: for Unity.RenderPipelines.Universal.Runtime.dll/UnityEngine.Rendering.Universal/UniversalAdditionalLightData
+Missed: for Unity.RenderPipelines.Universal.Runtime.dll/UnityEngine.Rendering.Universal/UniversalAdditionalCameraData
+Missed: for Unity.RenderPipelines.Universal.Runtime.dll/UnityEngine.Rendering.Universal/UniversalAdditionalCameraData
+Missed: for Unity.RenderPipelines.Universal.Runtime.dll/UnityEngine.Rendering.Universal/UniversalAdditionalCameraData
+Missed: for Unity.RenderPipelines.Universal.Runtime.dll/UnityEngine.Rendering.Universal/UniversalAdditionalCameraData
+Missed: for Unity.RenderPipelines.Universal.Runtime.dll/UnityEngine.Rendering.Universal/UniversalAdditionalCameraData
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.RenderPipelines.Universal.Runtime.dll/UnityEngine.Rendering.Universal/UniversalAdditionalLightData
+Missed: for Unity.RenderPipelines.Universal.Runtime.dll/UnityEngine.Rendering.Universal/UniversalAdditionalCameraData
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshPro
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshPro
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshPro
+Missed: for Unity.RenderPipelines.Universal.Runtime.dll/UnityEngine.Rendering.Universal/UniversalAdditionalLightData
+Missed: for Unity.RenderPipelines.Universal.Runtime.dll/UnityEngine.Rendering.Universal/UniversalAdditionalLightData
+Missed: for Unity.RenderPipelines.Universal.Runtime.dll/UnityEngine.Rendering.Universal/UniversalAdditionalLightData
+Missed: for Unity.RenderPipelines.Universal.Runtime.dll/UnityEngine.Rendering.Universal/UniversalAdditionalLightData
+Missed: for Unity.RenderPipelines.Universal.Runtime.dll/UnityEngine.Rendering.Universal/UniversalAdditionalLightData
+Missed: for Unity.RenderPipelines.Universal.Runtime.dll/UnityEngine.Rendering.Universal/UniversalAdditionalCameraData
+Missed: for Unity.RenderPipelines.Universal.Runtime.dll/UnityEngine.Rendering.Universal/UniversalAdditionalCameraData
+Missed: for Unity.RenderPipelines.Universal.Runtime.dll/UnityEngine.Rendering.Universal/UniversalAdditionalCameraData
+Missed: for Unity.RenderPipelines.Universal.Runtime.dll/UnityEngine.Rendering.Universal/UniversalAdditionalCameraData
+Missed: for Unity.RenderPipelines.Universal.Runtime.dll/UnityEngine.Rendering.Universal/UniversalAdditionalCameraData
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.RenderPipelines.Universal.Runtime.dll/UnityEngine.Rendering.Universal/UniversalAdditionalLightData
+Missed: for Unity.RenderPipelines.Universal.Runtime.dll/UnityEngine.Rendering.Universal/UniversalAdditionalCameraData
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshProUGUI
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshPro
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshPro
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshPro
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshPro
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshPro
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshPro
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshPro
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshPro
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshPro
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshPro
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshPro
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshPro
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshPro
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshPro
+Missed: for Unity.TextMeshPro.dll/TMPro/TextMeshPro
+Make Script DB
+Make Scripts
+Make plugins
+Make binStreamingAssets
+Write scrip db
+IsContains_TextMeshPro
+MakeUnityProject - end, dir: D:\Intern\ScrewJam

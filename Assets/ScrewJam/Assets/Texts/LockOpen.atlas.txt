@@ -1,0 +1,14 @@
+LockOpen.png
+size:512,512
+filter:Linear,Linear
+GlareSmall
+bounds:2,248,158,158
+offsets:10,9,177,177
+GoldLock
+bounds:2,2,104,112
+GoldLockOpen
+bounds:2,116,104,130
+SilverLock
+bounds:268,294,104,112
+SilverLockOpen
+bounds:162,276,104,130
